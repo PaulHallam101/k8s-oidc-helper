@@ -12,7 +12,7 @@ import (
 	"log"
 
 	"github.com/ghodss/yaml"
-	"github.com/wai-jiang/k8s-oidc-helper/internal/helper"
+	"github.com/PaulHallam101/k8s-oidc-helper/internal/helper"
 	flag "github.com/spf13/pflag"
 	viper "github.com/spf13/viper"
 	k8s_runtime "k8s.io/apimachinery/pkg/runtime"
